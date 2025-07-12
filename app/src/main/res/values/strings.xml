@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Inventário</string>
+    <string name="attention">Alerta</string>
+    <string name="back_button">Voltar</string>
+    <string name="delete">Excluir</string>
+    <string name="delete_question">Deseja Mesmo Excluir o Item?</string>
+    <string name="no_item_description">Inventário Vazio, Clique em Add Para Criar um Item</string>
+    <string name="edit_item_title">Editar Item</string>
+    <string name="item">Item</string>
+    <string name="item_detail_title">Detalhes do Item</string>
+    <string name="item_entry_title">Adicionar Item</string>
+    <string name="item_name_req">Nome do Item*</string>
+    <string name="item_price_req">Preço do Item*</string>
+    <string name="no">Não</string>
+    <string name="price">Preço</string>
+    <string name="quantity_in_stock">Quantidade Disponível</string>
+    <string name="in_stock">% Em Estoque</string>
+    <string name="quantity_req">Quantidade em Estoque*</string>
+    <string name="save_action">Salvar</string>
+    <string name="sell">Vender</string>
+    <string name="yes">Sim</string>
+    <string name="required_fields">*Preencha Todos os Campos!</string>
+</resources>
