@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CineKo</string>
+    <string name="hint_username">Usuário</string>
+    <string name="hint_password">Senha</string>
+    <string name="txt_remember_me">Lembre de mim</string>
+    <string name="txt_forgot_password">Esqueceu a senha?</string>
+    <string name="txt_button_login">LOGIN</string>
+</resources>
